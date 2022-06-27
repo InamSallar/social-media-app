@@ -31,9 +31,9 @@ What the application is expected to do.
   Therefore, MVC architecture is a one-of-a-kind approach to building web apps. As the MVC frameworks come packed with the handy advantages, it is easy to implement in your framework. The adoption of MVC architecture results in the lesser expense of time & money, and the ability to create multiple views makes it the best architecture for web app development. Therefore, the architecture that we will be using for developing this application is MVC. 
   
    ## HOW THE MVC ARCHITECTURE WORKS?
-### The architecture is split into three parts – model, view, and controller. The model, view, and controller components are responsible to handle some application development aspects of both web/software. The very nature of the MVC framework is such that there is low coupling among models, views or controllers.
+###### The architecture is split into three parts – model, view, and controller. The model, view, and controller components are responsible to handle some application development aspects of both web/software. The very nature of the MVC framework is such that there is low coupling among models, views or controllers.
 
-### Simply put, the controller component gets all the requests for the application and then orders the model component to prepare any information required by the view. The view component makes use of the data from the controller and gives the final output.
+###### Simply put, the controller component gets all the requests for the application and then orders the model component to prepare any information required by the view. The view component makes use of the data from the controller and gives the final output.
 
  
  ![mvc](https://user-images.githubusercontent.com/38752490/175882897-6e1e2328-11a0-46fd-bc8a-62dd448a32b6.jpg)
