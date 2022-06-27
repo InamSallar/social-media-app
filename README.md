@@ -64,6 +64,6 @@ MVC architecture works exceptionally well when your web app demands the support 
   
   # Authors 
   Inamullah
-  M.Bilal
+  Bilal
   M.Qiass
   
