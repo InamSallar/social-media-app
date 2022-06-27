@@ -8,23 +8,23 @@ What the application is expected to do.
 
 ### The application will have following features and components.
 
-  #### Users creation & signup
+  ##### Users creation & signup
   
-  #### Users authentication
+  ##### Users authentication
   
-  #### Creating and publishing posts by users
+  ##### Creating and publishing posts by users
   
-  #### Updating posts by users
+  ##### Updating posts by users
   
-  #### Deleting posts
+  ##### Deleting posts
   
-  #### Following other users
+  ##### Following other users
   
-  #### Unfollowing other users
+  ##### Unfollowing other users
   
-  #### Sessions management
+  ##### Sessions management
   
-  #### Signout option for users
+  ##### Signout option for users
   
   
   # MVC Pattern for our Application 
